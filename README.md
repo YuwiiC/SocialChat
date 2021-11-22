@@ -1,1 +1,1 @@
-# SocialChat
+# SocialChat.com
